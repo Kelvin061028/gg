@@ -21,7 +21,7 @@ In this example, we'll use a linear regression model to predict housing prices b
 First, make sure you have scikit-learn installed. You can install it using pip:
 """
 
-pip help install   #complete this
+pip install *   #complete this
 
 """To know more about scikit-learn : [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 
